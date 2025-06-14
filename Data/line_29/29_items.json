@@ -1,0 +1,23 @@
+[
+  {
+    "transport_id": "4714727743",
+    "line_id": "4714727133",
+    "name": "29",
+    "type": "bus",
+    "essential_stop_id_1": "5402422056",
+    "essential_stop_name_1": "Frunze Dovlatyan Street",
+    "essential_stop_id_2": "4048930828",
+    "essential_stop_name_2": "Marshal Khudyakov / Avan 4th Street",
+    "line_link": "https://yandex.com/maps/10262/yerevan/routes/bus_29/796d617073626d313a2f2f7472616e7369742f6c696e653f69643d34373134373237313333266c6c3d34342e34393831353725324334302e313534363933266e616d653d323926723d313230303026747970653d627573/"
+  },
+  {
+    "transport_id": "4714728823",
+    "line_id": "4714727133",
+    "name": "29",
+    "type": "bus",
+    "essential_stop_id_1": "1543189988",
+    "essential_stop_name_1": "Marshal Khudyakov / Avan 4th Street",
+    "essential_stop_id_2": "5402422056",
+    "essential_stop_name_2": "Frunze Dovlatyan Street"
+  }
+]
