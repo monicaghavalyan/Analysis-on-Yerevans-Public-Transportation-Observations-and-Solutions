@@ -4,7 +4,7 @@ This project analyzes public transportation accessibility and route usage in Yer
 
 ---
 
-## 📁 Structure Overview
+## Structure Overview
 
 ```
 Capstone/
