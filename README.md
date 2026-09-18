@@ -14,7 +14,7 @@ Capstone/
 
 ---
 
-## 🧠 Code-to-Findings Map
+## Code-to-Findings Map
 
 ### 1. `data_gathering.ipynb`
 - **Purpose:** Scrapes stops, items, and routes from Yandex Maps
@@ -59,19 +59,19 @@ Capstone/
 
 ---
 
-## 📍 Visualizations in Paper
+## Visualizations in Paper
 
 All isochrone layers, route intensity maps, and GPS authentication patterns are **visualized in QGIS** using the files above. These figures are directly shown in the Results section of the final report.
 
 ---
 
-## ⚠️ Reproducibility Notes
+## Reproducibility Notes
 
 - Code is written in Python (tested on Google Colab)
 - All file paths are defined relative to the `Data/` folder using `base_dir` and `os.path.join(...)`
 - No hardcoded paths are used — portable across local Jupyter and Colab
 
-### ✅ Example path logic:
+### Example path logic:
 ```python
 import os
 if os.path.exists('/content/drive/My Drive/Capstone/Data'):
@@ -84,7 +84,7 @@ file_path = os.path.join(base_dir, 'yandex_scraped/full_stops.geojson')
 
 ---
 
-## 🔧 Environment Setup
+## Environment Setup
 
 Install all dependencies at once:
 
